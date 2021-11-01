@@ -7,7 +7,7 @@ const btnHumor = document.querySelector('#humor');
 //   alert("Bem-vindo ao Jogo do Humor de Bakugou Katsuki da Classe 1-A");
 // };
 
-btnHumor.addEventListener("click",function () {
+btnHumor.addEventListener("click", function () {
   // alert ("Opa, Funcionou") //Verificando se o botão está funcionando
   if (btnHumor.value == 'primeiro')
   {
