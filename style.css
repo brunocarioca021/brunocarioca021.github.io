@@ -37,8 +37,7 @@
   align-content: center;
 }
 
-p,
-span {
+p, span {
   /* border: 5px solid green; */
   margin: 5px;
   font-family: "Fantasy", fantasy;
@@ -47,8 +46,7 @@ span {
   
 }
 
-html,
-body {
+html, body {
   /* border: 2px solid red;
     height: 100%; */
   /* margin: 0; */
@@ -153,6 +151,7 @@ button:active {
 }
 
 .container2 {
+  /* justify-content: space-evenly; */
   min-height: 10em;
   display: flex;
   font-size: 15px;
