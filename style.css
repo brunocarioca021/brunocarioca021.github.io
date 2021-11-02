@@ -1,5 +1,5 @@
-@import url(//db.onlinewebfonts.com/c/05289e866fe7e1e99d27a7a31f8d3b66?family=Trattatello);
-@import url(//db.onlinewebfonts.com/c/e6920cc7524bc3012ae9ad4179e060ee?family=Fantasy);
+/* @import url(//db.onlinewebfonts.com/c/05289e866fe7e1e99d27a7a31f8d3b66?family=Trattatello); */
+/* @import url(//db.onlinewebfonts.com/c/e6920cc7524bc3012ae9ad4179e060ee?family=Fantasy); */
 
 /* *{
     border: 5px solid black;
@@ -40,7 +40,7 @@
 p, span {
   /* border: 5px solid green; */
   margin: 5px;
-  font-family: "Fantasy", fantasy;
+  font-family: 'Courier New', Courier, monospace;
   display: flex;
   flex-direction: column;
   
@@ -67,7 +67,7 @@ html, body {
   margin: auto;
   padding: 5%;
   font-size: 390%;
-  font-family: "Trattatello", fantasy;
+  font-family: 'Courier New', Courier, monospace;
   background: -webkit-linear-gradient(
     rgba(228, 228, 51, 0.83),
     rgb(218, 49, 49)
@@ -96,7 +96,7 @@ button {
   cursor: pointer;
   outline: none;
   color: rgb(14, 13, 13);
-  font-family: "Trattatello", fantasy;
+  font-family: 'Courier New', Courier, monospace;
   background: linear-gradient(
     rgba(237, 233, 35, 0.8),
     rgba(237, 21, 21, 0.645)
